@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD90e8a86ac7102010fe320ba9410cadff</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8a75ec662f102010a34c7f572799b67f</scope_name>
+        <serialized_content>{"FlowDesigner:FD90e8a86ac7102010fe320ba9410cadff":{"$COCollectionField":["Integer"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD90e8a86ac7102010fe320ba9410cadff.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Loop Array\",\"mandatory\":\"true\",\"child_name\":\"Loop_Entry\",\"uiUniqueId\":\"6df30271-9706-49eb-bb5e-5cbddf7c0b40\",\"uiTypeLabel\":\"Array.Integer\",\"co_type_name\":\"FD90e8a86ac7102010fe320ba9410cadff\",\"child_label\":\"Loop Entry\",\"child_type_label\":\"Integer\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.integer\",\"child_type\":\"integer\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"67cc1756-b4a5-4ba6-9410-148fab8e4a40\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>aidan.cooper</sys_created_by>
+        <sys_created_on>2020-11-08 10:59:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4e8a86a2f102010a34c7f572799b6ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD90e8a86ac7102010fe320ba9410cadff</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FlowUtils" source="x_170623_flowutils">8a75ec662f102010a34c7f572799b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FlowUtils">8a75ec662f102010a34c7f572799b67f</sys_scope>
+        <sys_update_name>sys_complex_object_d4e8a86a2f102010a34c7f572799b6ff</sys_update_name>
+        <sys_updated_by>aidan.cooper</sys_updated_by>
+        <sys_updated_on>2020-11-08 10:59:53</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

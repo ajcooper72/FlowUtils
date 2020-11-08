@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD2ce8e86a9e102010d3437279b249c210</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>8a75ec662f102010a34c7f572799b67f</scope_name>
+        <serialized_content>{"FlowDesigner:FD2ce8e86a9e102010d3437279b249c210":{"$COCollectionField":["Integer"],"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD2ce8e86a9e102010d3437279b249c210.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"Loop Array\",\"mandatory\":\"true\",\"child_name\":\"loop_entry\",\"uiUniqueId\":\"1b65a032-ff94-4437-970d-43c4e0948e74\",\"uiTypeLabel\":\"\",\"co_type_name\":\"FD2ce8e86a9e102010d3437279b249c210\",\"child_label\":\"Loop Entry\",\"child_type_label\":\"Integer\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"array.integer\",\"child_type\":\"integer\",\"order\":\"1\",\"max_length\":\"0\",\"child_uiUniqueId\":\"76bedc87-eaf2-4615-bebe-70ca17753958\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>aidan.cooper</sys_created_by>
+        <sys_created_on>2020-11-08 10:59:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ece8e86a2f102010a34c7f572799b610</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD2ce8e86a9e102010d3437279b249c210</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="FlowUtils" source="x_170623_flowutils">8a75ec662f102010a34c7f572799b67f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FlowUtils">8a75ec662f102010a34c7f572799b67f</sys_scope>
+        <sys_update_name>sys_complex_object_ece8e86a2f102010a34c7f572799b610</sys_update_name>
+        <sys_updated_by>aidan.cooper</sys_updated_by>
+        <sys_updated_on>2020-11-08 10:59:53</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
